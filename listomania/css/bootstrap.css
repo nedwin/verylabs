@@ -3975,8 +3975,10 @@ h3.question{
 }
 
 .footer{
- float:left;
- text-align:right;
+  margin: auto;
+  width: 75%;
+  padding: 30px;
+  text-align: center;
 
 }
 
